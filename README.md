@@ -1,4 +1,4 @@
-# WeatherAppReact
+# Weather App React
 Project was created with React and React-Bootstrap
 
 ## Features
